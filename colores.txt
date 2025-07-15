@@ -1,0 +1,19 @@
+colores primarios:
+
+#0091EA
+#F6EEE6
+#F7EFDF
+#333
+
+colores secundarios:
+
+#BDBDBD
+#B0BEC5
+#fff
+
+colores adicionales
+#2D2D2D
+#B49C8B
+#DA5B3A
+#4FAE8D
+#D4A930
